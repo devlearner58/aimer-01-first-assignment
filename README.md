@@ -1,9 +1,8 @@
 # 🍽️ WELCOME TO ASSIGNMENT-001
 # <img width=20 src="https://img.icons8.com/?size=96&id=2965&format=png"/> TERRA VITA — Premium Artisanal Dining
 
-## **📅 Deadline For 60 marks**: (Set your deadline here) ( 11:59 pm ⏱️)
-## **📅 Deadline For 50 marks**: (Set your deadline here) ( 11:59 pm ⏱️)
-## **📅 Deadline For 30 marks**: Any time after the final deadline.
+## **📅 Deadline For 60 marks**: 13th May ( 10:49 pm ⏱️)
+## **📅 Deadline For 50 marks**: 14th May ( 10:49 pm ⏱️)
 
 ---
 
