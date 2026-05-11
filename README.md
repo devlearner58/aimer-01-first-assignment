@@ -130,9 +130,6 @@
 
 # What to Submit
 
-- Your **GitHub Repository** — e.g., `https://github.com/yourusername/terra-vita-assignment`
-- Your **Live Link** — e.g., `https://yourusername.github.io/terra-vita-assignment`
-
 ---
 
 > 💡 **Tip**: Start with the Navbar and Banner sections first. Build from top to bottom and commit after completing each section.
